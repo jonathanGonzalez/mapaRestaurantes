@@ -1,0 +1,59 @@
+[
+    {
+    "nombre": "La patatería",
+    "telefono": 8899999,
+    "geo": {"lat":5.046376, "lng": -75.482093}
+    },
+    {
+    "nombre": "La yuquería",
+    "telefono": 3333333,
+    "geo": {"lat":5.046376, "lng": -75.582093}
+    }
+    ,
+    {
+    "nombre": "La yuquería 2",
+    "telefono": 3333333,
+    "geo": {"lat":5.056376, "lng": -75.582093}
+    }
+    ,
+    {
+    "nombre": "La yuquería 3",
+    "telefono": 3333333,
+    "geo": {"lat":5.058376, "lng": -75.582093}
+    }
+    ,
+    {
+    "nombre": "La yuquería 4",
+    "telefono": 3333333,
+    "geo": {"lat":5.055376, "lng": -75.582093}
+    }
+    ,
+    {
+    "nombre": "La yuquería 5",
+    "telefono": 3333333,
+    "geo": {"lat":5.046376, "lng": -75.582093}
+    }
+    ,
+    {
+    "nombre": "Pizza Factory",
+    "telefono": 5555555,
+    "geo": {"lat":5.047349, "lng": -75.482998}
+    },
+    {
+    "nombre": "Las arepas con todo",
+    "telefono": 77777777,
+    "geo": {"lat":5.146376, "lng": -75.582093}
+    }
+    ,
+    {
+    "nombre": "Hamburguesas xyz",
+    "telefono": 77777777,
+    "geo": {"lat":5.246376, "lng": -75.682093}
+    }
+    ,
+    {
+    "nombre": "Las arepas klm",
+    "telefono": 77777777,
+    "geo": {"lat":5.146376, "lng": -75.582093}
+    }
+]
