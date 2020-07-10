@@ -41,13 +41,13 @@
     },
     {
     "nombre": "Las arepas con todo",
-    "telefono": 77777777,
+    "telefono": 577777777,
     "geo": {"lat":5.146376, "lng": -75.582093}
     }
     ,
     {
     "nombre": "Hamburguesas xyz",
-    "telefono": 77777777,
+    "telefono": 477777777,
     "geo": {"lat":5.246376, "lng": -75.682093}
     }
     ,
